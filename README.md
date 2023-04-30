@@ -1,9 +1,7 @@
 <div align="center"> 
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Minhee%20%Jung%20🤗&desc=I'm%20Engineer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
-
 <hr>
- 
 ### Hi✋there! Welcome my github profile !
 
 i'm a Data Engineer and Analyst.<br/>
