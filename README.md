@@ -31,7 +31,8 @@ Thank you for visiting :)
 <img src="https://img.shields.io/badge/SnowFlake-29B5E8?style=flat&logo=Databricks&logoColor=white" />
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-006600?style=flat-square&logo=Notion&logoColor=white"/></a><br/>
+<img src="https://img.shields.io/badge/Notion-006600?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@jenny5587"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@jenny5587"/></a><br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=flat-square&logo=Visual Studio Code&logoColor&logoColor=white"/></a>
 <hr>
 <div align="center"> 
