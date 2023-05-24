@@ -4,11 +4,11 @@
 <hr>
 
 ### Hi✋there! Welcome my github profile !
-
-i'm a Data Engineer and Analyst.<br/>
-Interested in migration, ETL, Devops, mixed analysis of structured and unstructured data.<br/>
-I studied Python and R, AWS, Databricks, DataBase, and Machine Learning.<br/>
-Now I'm in charge of ETL and MLops moving from On-Premise to Cloud in Role.<br/>
+	
+I'm a data engineer and analyst.
+I'm interested in all the pipelines of migration, ETL, Devops, mixed analysis of structured and unstructured data.
+I studied Python and R, AWS, database, database, machine learning and I'm working.
+Now I'm in charge of ETL and MLops moving from on-premise to cloud.
 Thank you for visiting :)
 <br/>
  
