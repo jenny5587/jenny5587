@@ -6,7 +6,8 @@
 ### Hi✋there! Welcome my github profile !
 	
 I'm a data engineer and analyst.
-I'm interested in all the pipelines of migration, ETL, Devops, mixed analysis of structured and unstructured data.
+I'm interested in all the pipelines of migration, ETL, Devops, 
+	mixed analysis of structured and unstructured data.
 I studied Python and R, AWS, database, database, machine learning and I'm working.
 Now I'm in charge of ETL and MLops moving from on-premise to cloud.
 Thank you for visiting :)
