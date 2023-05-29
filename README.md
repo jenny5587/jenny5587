@@ -1,6 +1,6 @@
 <div align="center"> 
 	
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mini's%20History!%20🤗&desc=I'm%20Engineer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Min%20History!%20🤗&desc=I'm%20Engineer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 ### I'm Data Enginner 🌱!
 <br/>
  
