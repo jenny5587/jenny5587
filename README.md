@@ -1,12 +1,9 @@
 <div align="center"> 
 	
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mini's%20GitHub!%20🤗&desc=I'm%20Engineer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
-<hr>
-
-### Hi✋there! I'm Data Enginner 🌱!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mini's%20GitHub!%20🤗&desc=I'm%20Engineer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+### Hi✋there! 
+### I'm Data Enginner 🌱!
 <br/>
- 
- 
  
 ### ✨ Tech Stack ✨
  
