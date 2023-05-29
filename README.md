@@ -3,15 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Good%20to%20see%20you%20🤗&desc=I'm%20Engineer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 <hr>
 
-### Hi✋there! Welcome my github profile !
-	
-I'm a data engineer and analyst.
-I'm interested in all the pipelines of migration, ETL, Devops,<br/>
-mixed analysis of structured and unstructured data.</a>
-<br/>
-I studied Python and R, AWS, database, database, machine learning and I'm working.</a><br/>
-Now I'm in charge of ETL and MLops moving from on-premise to cloud.</a>
-Thank you for visiting :)
+### Hi✋there! I'm Data Enginner 🌱!
 <br/>
  
  
