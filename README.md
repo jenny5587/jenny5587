@@ -2,6 +2,9 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Min%20History!%20🤗&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 ### I'm Data Enginner 🌱!
+I was born into this world just to enjoy it, not to suffer, 
+	<br/>
+I came to this world to play, I came to enjoy it
 <br/>
  
 ### ✨ Tech Stack ✨
