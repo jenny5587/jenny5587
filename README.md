@@ -25,6 +25,7 @@ I came to this world to play, I came to enjoy it
 <img src="https://img.shields.io/badge/terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-006600?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=flat-square&logo=Visual Studio Code&logoColor&logoColor=white"/></a>
 <hr>
 <div align="center"> 
