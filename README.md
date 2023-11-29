@@ -14,7 +14,7 @@ I study to achieve what I imagined
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />	
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"></a>
 <img src="https://img.shields.io/badge/Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16" /><br/>
 <img src=" https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/></a>
