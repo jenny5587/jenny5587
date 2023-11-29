@@ -1,7 +1,7 @@
 <div align="center"> 
 	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Min%20History!%20🤗&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
-### I'm Data Enginner 🌱!
+### I'm Data Enginner 🌱!  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenny5587%2Fjenny5587&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2323F63C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
 I study to achieve what I imagined
 	<br/>
 <br/>
@@ -29,7 +29,7 @@ I study to achieve what I imagined
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <hr>
 <div align="center"> 
- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=tokyonight)
 
 </a>
