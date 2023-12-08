@@ -28,5 +28,5 @@ I study to achieve what I imagined
 <hr>
 <div align="center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=tokyonight) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjenny5587%2Fjenny5587&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2323F63C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=swift)
 </a>
