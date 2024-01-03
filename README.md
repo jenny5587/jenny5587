@@ -1,12 +1,13 @@
 <div align="center"> 
 	
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Min%20History!%20🤗&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Min%20History!%20🤗&fontAlignY=40&descSize=20&descAlignY=58&animation=fadeIn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=swift)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dark535)](https://solved.ac/dark535)
 ### I'm Data Enginner 🌱! 
 I study to achieve what I imagined
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=swift)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dark535)](https://solved.ac/dark535/)
 </a>
+
 ### ✨ Tech Stack ✨
  
 </div>
