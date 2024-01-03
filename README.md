@@ -4,6 +4,9 @@
 ### I'm Data Enginner 🌱! 
 I study to achieve what I imagined
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=swift)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dark535)](https://solved.ac/dark535/)
+</a>
 ### ✨ Tech Stack ✨
  
 </div>
@@ -27,6 +30,3 @@ I study to achieve what I imagined
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <hr>
 <div align="center"> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=swift)
-</a>
