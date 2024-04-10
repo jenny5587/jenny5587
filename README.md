@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Min%20History!%20🤗&fontAlignY=40&descSize=20&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&height=170&section=header&text=Min%20History!%20🤗&fontAlignY=50&descSize=20&fontColor=ffffff&descAlignY=58&animation=fadeIn)
 
 ### 🌱 I'm Data Enginner! 
 I study to achieve what I imagined
@@ -27,5 +27,5 @@ I study to achieve what I imagined
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/></a>	
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=swift)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jenny5587)](https://solved.ac/jenny5587)
