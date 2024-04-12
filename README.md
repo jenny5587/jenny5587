@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=00000&height=170&section=header&text=Min%20History!%20🤗&fontAlignY=50&descSize=20&fontColor=ffffff&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=964B00&height=170&section=header&text=Min%20History!%20🤗&fontAlignY=50&descSize=20&fontColor=ffffff&descAlignY=58&animation=fadeIn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=great-gatsby)</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenny5587&show_icons=true&theme=shadow_red)</a>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jenny5587)](https://solved.ac/jenny5587)
 ### 🌱 I'm Data Enginner! 
 I study to achieve what I imagined
